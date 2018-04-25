@@ -1,0 +1,4 @@
+# 研发环境默认bootstrap-dev.yml配置
+spring:
+  profiles:
+    active: dev

@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://外网地址:8091/
+      name: test-application
+      profile: prod
+      label: master

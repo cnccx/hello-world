@@ -1,0 +1,5 @@
+# enabled为false时，配置文件使用application.xml
+spring:
+  cloud:
+    config:
+      enabled: false

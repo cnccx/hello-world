@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://172.16.202.40:8091/
+      name: test-application
+      profile: test
+      label: master
